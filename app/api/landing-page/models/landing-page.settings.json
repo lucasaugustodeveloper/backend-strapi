@@ -28,12 +28,12 @@
       "component": "page.header",
       "required": true
     },
-    "SectionAboutProject": {
+    "sectionAboutProject": {
       "type": "component",
       "repeatable": false,
       "component": "page.section-about-project"
     },
-    "SectionTech": {
+    "sectionTech": {
       "type": "component",
       "repeatable": false,
       "component": "page.section-tech",
