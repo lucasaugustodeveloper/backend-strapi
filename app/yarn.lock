@@ -10165,7 +10165,7 @@ strapi-helper-plugin@3.6.5:
     styled-components "^5.2.3"
     whatwg-fetch "^3.6.2"
 
-strapi-plugin-ckeditor5@^1.11.0:
+strapi-plugin-ckeditor5@1.11.0:
   version "1.11.0"
   resolved "https://registry.yarnpkg.com/strapi-plugin-ckeditor5/-/strapi-plugin-ckeditor5-1.11.0.tgz#d32a46232887f601e988289c0797327bee3d6751"
   integrity sha512-Js58KK68RblaH70IYecMVMm9HIVCsrhOyrl9YfxxEvmgrqBAoAzBFxqLZQSc+sdgrCIgwc9lsKDoIxkms2RY4w==
